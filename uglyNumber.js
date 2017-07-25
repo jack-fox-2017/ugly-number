@@ -7,7 +7,6 @@ function maxDivide(number, divisible) {
   }
     // console.log("number : " + number);
   return number;
-
 }
 
 function isUgly(numberUgly) {
